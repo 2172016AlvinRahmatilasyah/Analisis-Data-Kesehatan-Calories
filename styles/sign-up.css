@@ -1,0 +1,147 @@
+
+html {
+	font-size:45.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 172.8rem;
+}.sign-up-P73 {
+  width: 100%;
+  height: 111.7rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.sign-up-P73 .rectangle-1-XDF {
+  width: 89rem;
+  height: 89rem;
+  position: absolute;
+  left: 41.9rem;
+  top: 11.3rem;
+  background-color: #09467e;
+  border-radius: 2rem;
+}
+.sign-up-P73 .mycalorielog-T6u {
+  width: 32.7rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 60.1rem;
+  top: 14.5rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-P73 .username-4Mb {
+  width: 17.4rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 47.6rem;
+  top: 30.1rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-P73 .password-mG1 {
+  width: 16.6rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 47.6rem;
+  top: 49.6rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-P73 .rectangle-4-t5j {
+  width: 77.1rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 47.9rem;
+  top: 75.5rem;
+  border: solid 0.1rem #d9d9d9;
+  box-sizing: border-box;
+  background-color: #fffafa;
+  border-radius: 5rem;
+}
+.sign-up-P73 .sign-up-QJy {
+  width: 18.2rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 77.6rem;
+  top: 77.2rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #1e1e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-P73 .rectangle-8-SFf {
+  position: absolute;
+  left: 41%;
+  top: 37%;
+  transform: translate(-50%, -50%);
+  width: 44.9rem;
+  height: 6.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #d9d9d9;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 5rem;
+}
+
+.username-input {
+  width: 80%;
+  height: 80%;
+  border: none;
+  outline: none;
+  font-size: 2rem;
+  border-radius: 5rem;
+  padding: 0.5rem 1rem;
+  box-sizing: border-box;
+}
+.sign-up-P73 .rectangle-9-9fs {
+  position: absolute;
+  left: 41%;
+  top: 54%;
+  transform: translate(-50%, -50%);
+  width: 44.9rem;
+  height: 6.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #d9d9d9;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 5rem;
+}
+
+.password-input {
+  width: 80%;
+  height: 80%;
+  border: none;
+  outline: none;
+  font-size: 2rem;
+  border-radius: 5rem;
+  padding: 0.5rem 1rem;
+  box-sizing: border-box;
+}

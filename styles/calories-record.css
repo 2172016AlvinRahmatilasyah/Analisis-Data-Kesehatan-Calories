@@ -1,0 +1,226 @@
+
+html {
+	font-size:45.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 172.8rem;
+}.calories-record-Kuw {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.calories-record-Kuw .auto-group-shhf-sRf {
+  margin-bottom: 5rem;
+  box-sizing: border-box;
+  padding: 2.8rem 4.5rem 2.7rem 4.5rem;
+  width: 100%;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #09467e;
+  flex-shrink: 0;
+}
+.calories-record-Kuw .calories-record-kVT {
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #1e1e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calories-record-Kuw .auto-group-3qlm-HVP {
+  box-sizing: border-box;
+  padding: 11.2rem 9.4rem 7.3rem 20.9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.calories-record-Kuw .auto-group-3qlm-HVP .auto-group-ypxv-1gH {
+  margin: 0rem 55.5rem 5.2rem 0rem;
+  width: calc(100% - 55.5rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.calories-record-Kuw .auto-group-3qlm-HVP .auto-group-ypxv-1gH .date--x5j {
+  margin-right: 9.5rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #1e1e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calories-record-Kuw .auto-group-3qlm-HVP .auto-group-ypxv-1gH .rectangle-10-Hth {
+  margin-top: 0.6rem;
+  width: 63.9rem;
+  height: 6.5rem;
+  border: solid 0.1rem #d9d9d9;
+  box-sizing: border-box;
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.calories-record-Kuw .auto-group-3qlm-HVP .auto-group-vlvq-QyK {
+  margin: 0rem 55.5rem 10.8rem 0rem;
+  width: calc(100% - 55.5rem);
+  height: 36.8rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.calories-record-Kuw .auto-group-3qlm-HVP .auto-group-vlvq-QyK .food--jkh {
+  margin-right: 9rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #1e1e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calories-record-Kuw .auto-group-3qlm-HVP .auto-group-vlvq-QyK .auto-group-xqfo-H1X {
+  box-sizing: border-box;
+  padding: 2.8rem 2.5rem 2.7rem 5rem;
+  width: 63.9rem;
+  height: 100%;
+  row-gap: 1.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.calories-record-Kuw .auto-group-3qlm-HVP .auto-group-vlvq-QyK .auto-group-xqfo-H1X .auto-group-w7q7-PKT {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.calories-record-Kuw .auto-group-3qlm-HVP .auto-group-vlvq-QyK .auto-group-xqfo-H1X .auto-group-w7q7-PKT .food--LkV {
+  margin: 0rem 2.4rem 0.1rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #1e1e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calories-record-Kuw .auto-group-3qlm-HVP .auto-group-vlvq-QyK .auto-group-xqfo-H1X .auto-group-w7q7-PKT .rectangle-17-dzV {
+  width: 44.6rem;
+  height: 7rem;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.calories-record-Kuw .auto-group-3qlm-HVP .auto-group-vlvq-QyK .auto-group-xqfo-H1X .auto-group-ote5-NhB {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.calories-record-Kuw .auto-group-3qlm-HVP .auto-group-vlvq-QyK .auto-group-xqfo-H1X .auto-group-ote5-NhB .food--Y5s {
+  margin: 0.1rem 2.4rem 0rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #1e1e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calories-record-Kuw .auto-group-3qlm-HVP .auto-group-vlvq-QyK .auto-group-xqfo-H1X .auto-group-ote5-NhB .rectangle-18-fAV {
+  width: 44.6rem;
+  height: 7rem;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.calories-record-Kuw .auto-group-3qlm-HVP .auto-group-vlvq-QyK .auto-group-xqfo-H1X .auto-group-7qjr-ziZ {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.calories-record-Kuw .auto-group-3qlm-HVP .auto-group-vlvq-QyK .auto-group-xqfo-H1X .auto-group-7qjr-ziZ .food--xQV {
+  margin: 0.3rem 2.4rem 0rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #1e1e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calories-record-Kuw .auto-group-3qlm-HVP .auto-group-vlvq-QyK .auto-group-xqfo-H1X .auto-group-7qjr-ziZ .rectangle-19-snM {
+  width: 44.6rem;
+  height: 7rem;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.calories-record-Kuw .auto-group-3qlm-HVP .auto-group-vlvq-QyK .auto-group-xqfo-H1X .auto-group-wyvr-DrD {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.calories-record-Kuw .auto-group-3qlm-HVP .auto-group-vlvq-QyK .auto-group-xqfo-H1X .auto-group-wyvr-DrD .food--awf {
+  margin: 0.1rem 2.4rem 0rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #1e1e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calories-record-Kuw .auto-group-3qlm-HVP .auto-group-vlvq-QyK .auto-group-xqfo-H1X .auto-group-wyvr-DrD .rectangle-20-uyw {
+  width: 44.6rem;
+  height: 7rem;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.calories-record-Kuw .auto-group-3qlm-HVP .auto-group-wtvu-eAq {
+  margin-left: 112.8rem;
+  width: 29.7rem;
+  height: 9.1rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #f0f0f0;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #d9d9d9;
+  box-sizing: border-box;
+  background-color: #09467e;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}

@@ -1,0 +1,197 @@
+html {
+	font-size:45.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 172.8rem;
+}.calories-graphics-Pph {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.calories-graphics-Pph .auto-group-jyar-Lzq {
+  box-sizing: border-box;
+  padding: 2.8rem 4.5rem 2.7rem 4.5rem;
+  width: 100%;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #09467e;
+  flex-shrink: 0;
+}
+.calories-graphics-Pph .auto-group-rp1t-2Ms {
+  box-sizing: border-box;
+  padding: 4.6rem 5.3rem 17.7rem 5.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.calories-graphics-Pph .auto-group-rp1t-2Ms .auto-group-1tvb-MQ9 {
+  margin: 0rem 107.7rem 6rem 0rem;
+  width: calc(100% - 107.7rem);
+  height: 5.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.calories-graphics-Pph .auto-group-rp1t-2Ms .auto-group-1tvb-MQ9 .filter-stH {
+  margin-right: 2.1rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #1e1e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calories-graphics-Pph .auto-group-rp1t-2Ms .auto-group-1tvb-MQ9 .auto-group-r37b-DhF {
+  margin: 0.6rem 0rem 0.7rem 0rem;
+  box-sizing: border-box;
+  padding: 0 1.8rem;
+  width: 40.4rem;
+  height: calc(100% - 1.3rem);
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.calories-graphics-Pph .auto-group-rp1t-2Ms .calories-graphics-octobers-Hx1 {
+  margin: 0rem 0rem 6.7rem 25.3rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #1e1e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calories-graphics-Pph .auto-group-rp1t-2Ms .auto-group-aacu-DKs {
+  width: 100%;
+  height: 51.6rem;
+  position: relative;
+  background-color: #09467e;
+  flex-shrink: 0;
+}
+.calories-graphics-Pph .auto-group-rp1t-2Ms .auto-group-aacu-DKs .group-8-kah {
+  width: 146.468rem;
+  height: 26.0754rem;
+  position: absolute;
+  left: 8.7rem;
+  top: 6.6rem;
+}
+.calories-graphics-Pph .auto-group-rp1t-2Ms .auto-group-aacu-DKs .group-8-kah .rectangle-27-gUM {
+  width: 14.6014rem;
+  height: 16.4308rem;
+  position: absolute;
+  left: 0;
+  top: 0.8rem;
+  background-color: #1e1e1e;
+}
+.calories-graphics-Pph .auto-group-rp1t-2Ms .auto-group-aacu-DKs .group-8-kah .rectangle-28-zjw {
+  width: 19.4424rem;
+  height: 8.8474rem;
+  position: absolute;
+  left: 12.5rem;
+  top: 0.8rem;
+  background-color: #1e1e1e;
+}
+.calories-graphics-Pph .auto-group-rp1t-2Ms .auto-group-aacu-DKs .group-8-kah .rectangle-29-LJ1 {
+  width: 11.8307rem;
+  height: 18.2701rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 7.8rem;
+  background-color: #1e1e1e;
+}
+.calories-graphics-Pph .auto-group-rp1t-2Ms .auto-group-aacu-DKs .group-8-kah .rectangle-30-UQD {
+  width: 18.0868rem;
+  height: 12.1754rem;
+  position: absolute;
+  left: 39.4rem;
+  top: 13.9rem;
+  background-color: #1e1e1e;
+}
+.calories-graphics-Pph .auto-group-rp1t-2Ms .auto-group-aacu-DKs .group-8-kah .rectangle-31-QYm {
+  width: 15.4952rem;
+  height: 15.6171rem;
+  position: absolute;
+  left: 56rem;
+  top: 0;
+  background-color: #1e1e1e;
+}
+.calories-graphics-Pph .auto-group-rp1t-2Ms .auto-group-aacu-DKs .group-8-kah .rectangle-32-kcd {
+  width: 19.8241rem;
+  height: 7.1774rem;
+  position: absolute;
+  left: 69.6rem;
+  top: 0rem;
+  background-color: #1e1e1e;
+}
+.calories-graphics-Pph .auto-group-rp1t-2Ms .auto-group-aacu-DKs .group-8-kah .rectangle-33-hXs {
+  width: 20.0956rem;
+  height: 4.3811rem;
+  position: absolute;
+  left: 88.8rem;
+  top: 5.2rem;
+  background-color: #1e1e1e;
+}
+.calories-graphics-Pph .auto-group-rp1t-2Ms .auto-group-aacu-DKs .group-8-kah .rectangle-34-SkM {
+  width: 19.4997rem;
+  height: 8.6395rem;
+  position: absolute;
+  left: 108.2rem;
+  top: 7.7rem;
+  background-color: #1e1e1e;
+}
+.calories-graphics-Pph .auto-group-rp1t-2Ms .auto-group-aacu-DKs .group-8-kah .rectangle-35-b7T {
+  width: 20.068rem;
+  height: 2.8665rem;
+  position: absolute;
+  left: 126.4rem;
+  top: 14.3rem;
+  background-color: #1e1e1e;
+}
+.calories-graphics-Pph .auto-group-rp1t-2Ms .auto-group-aacu-DKs .group-9-jUZ {
+  width: 154.2rem;
+  height: 42.5rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 2.7rem;
+}
+.calories-graphics-Pph .auto-group-rp1t-2Ms .auto-group-aacu-DKs .group-9-jUZ .rectangle-26-g8u {
+  width: 154.2rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 36.1rem;
+  background-color: #ffffff;
+}
+.calories-graphics-Pph .auto-group-rp1t-2Ms .auto-group-aacu-DKs .group-9-jUZ .rectangle-25-pW1 {
+  width: 2rem;
+  height: 42.5rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 0;
+  background-color: #ffffff;
+}
