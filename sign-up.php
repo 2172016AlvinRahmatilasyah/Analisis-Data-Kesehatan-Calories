@@ -1,29 +1,27 @@
 <?php
-// Ganti informasi berikut sesuai dengan konfigurasi database Anda
 $host = "localhost";
 $username = "root";
 $password = "";
 $database = "calories";
 
-// Koneksi ke database
+
 $conn = new mysqli($host, $username, $password, $database);
 
-// Memeriksa koneksi
+
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 
-// Memeriksa apakah form sign-up sudah disubmit
+
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    // Mengambil data dari form
     $inputUsername = $_POST["username"];
     $inputPassword = $_POST["password"];
 
-    // Mengamankan data dari SQL injection
+ 
     $inputUsername = mysqli_real_escape_string($conn, $inputUsername);
     $inputPassword = mysqli_real_escape_string($conn, $inputPassword);
 
-    // Query untuk menambahkan data ke dalam tabel login
+ 
     $query = "INSERT INTO login (Username, Password) VALUES ('$inputUsername', '$inputPassword')";
 
     if ($conn->query($query) === TRUE) {
@@ -34,8 +32,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo '<script>alert("Error: ' . $conn->error . '");</script>';
     }
 }
-
-// Tutup koneksi database
 $conn->close();
 ?>
 
@@ -60,7 +56,6 @@ $conn->close();
 <div class="sign-up-P73">
   <div class="rectangle-1-XDF"></div>
   <p class="mycalorielog-T6u">MyCalorieLog Sign Up</p>
-  <!-- Ganti <div> menjadi <form> dan tambahkan action dan method -->
   <form method="post" action="">
     <p class="username-4Mb">Username</p>
     <div class="rectangle-8-SFf">
@@ -70,7 +65,6 @@ $conn->close();
     <div class="rectangle-9-9fs">
       <input type="password" class="password-input" placeholder="Enter your password" name="password" />
     </div>
-    <!-- Ganti onClick menjadi type="submit" untuk mengirimkan form -->
     <button type="submit" class="rectangle-4-t5j" ></button><p class="sign-up-QJy">Sign Up</p>
   </form>
 </div>
