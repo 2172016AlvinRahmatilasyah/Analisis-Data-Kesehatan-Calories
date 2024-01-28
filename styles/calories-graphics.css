@@ -77,7 +77,7 @@ body {
   flex-shrink: 0;
 }
 .calories-graphics-Pph .auto-group-rp1t-2Ms .calories-graphics-octobers-Hx1 {
-  margin: 0rem 0rem 6.7rem 25.3rem;
+  margin: 0rem 0rem 6.7rem 45.3rem;
   font-size: 6.4rem;
   font-weight: 700;
   line-height: 1.2125;
@@ -194,4 +194,9 @@ body {
   left: 4.6rem;
   top: 0;
   background-color: #ffffff;
+}
+a {
+  color: red; /* Warna merah */
+  text-decoration: none; /* Menghilangkan garis bawah */
+  font-size: 1rem; 
 }

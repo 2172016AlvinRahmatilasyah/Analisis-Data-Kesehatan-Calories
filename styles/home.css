@@ -146,7 +146,7 @@ body {
   font-size: 4.8rem;
   font-weight: 700;
   line-height: 1.2125;
-  color: #ffffff;
+  color: #1b1b1b;
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
   background-color: #09467e;
@@ -168,7 +168,7 @@ body {
   width: 100%;
   display: flex;
   flex-direction: column;
-  background-color: #d9d9d9;
+  background-color: #000000;
   border-radius: 5rem;
   flex-shrink: 0;
 }
